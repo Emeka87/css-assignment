@@ -1,0 +1,20 @@
+.contact {
+    color: red;
+    text-align: center;
+}
+
+p {
+    background-color: black;
+    color: white;
+}
+
+form {
+    text-align: center;
+    background-color: blue;
+}
+
+button {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
